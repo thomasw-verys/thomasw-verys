@@ -1,4 +1,8 @@
-### Hi there 👋
+### こんにちは👽
+
+トーマスともうします。よろしくお願いします。
+
+
 
 <!--
 **thomasw-verys/thomasw-verys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
